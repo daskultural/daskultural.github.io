@@ -2,7 +2,11 @@
 
 Se recopilan cosas de distintos lugares en un lugar que, ojalá, den ganas de visitar.
 
-## Basado en el template "Forty" by HTML5 UP
+## Disclaimer: todo está a medias
+
+Al sitio le falta mucho para ser útil todavía y casi nada funciona, navegue con discreción
+
+### Basado en el template "Forty" by HTML5 UP
 
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
