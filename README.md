@@ -34,7 +34,7 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 ### 3.4 Funciones por implementar
 - [ ] Formulario de contacto
 - [ ] Un botón para compartir o algo así
-
+- [ ] Una sección de agradecimientos <3
 
 ## 4. Bugs
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
