@@ -43,6 +43,10 @@ En esta sección se agregarán bugs conocidos para intentar resolverlos.
 - Algunos botones podrían no ajustarse bien en pantallas móviles 
 - El formulario de contacto no funciona xd
 
-## 4.Créditos a HTML5 UP por el template "Forty"
+## 5. Agradecimientos/cráditos 
 
+- "Aalis", por su apoyo emocional
+- "Ryner", por su ayuda técnica con los links
+- "Yanekp", por ser la primera beta tester
+- Créditos a HTML5 UP por el template "Forty"
 html5up.net | @ajlkn | aj@lkn.io
