@@ -1,5 +1,5 @@
 # Biblioteca coordinadora Das Bibliotek (Alpha 0.3)
-## Disclaimer: todo está a medias
+## 1. Disclaimer: todo está a medias
 Al sitio le falta mucho para ser útil todavía y casi nada funciona, navegue con discreción.
 
 ## 2. Sobre Das Bibliotek
