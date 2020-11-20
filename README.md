@@ -32,9 +32,10 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [ ] Correjir imperfecciones (líneas, sombras, cosas raras)
 
 ### 3.4 Funciones por implementar
-- [ ] Formulario de contacto
+- [X] Formulario de contacto
 - [ ] Un botón para compartir o algo así
 - [ ] Una sección de agradecimientos <3
+- [ ] Redirección para que la persona que usó el formulario sepa que su respuesta fué recibida, debe tener un nombre
 
 ## 4. Bugs
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
