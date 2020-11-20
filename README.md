@@ -23,8 +23,8 @@ Páginas por agregar:
 
 ### 3.3 Pulido estético
 El sitio está basado en una plantilla cuyo código ha sido modificado para adaptarla a las necesidades de Das Biliotek. Es necesario mejorar lo siguiente:
-- [ ] Agregar favicon
-- [ ] Agregar app icon
+- [X] Agregar favicon
+- [X] Agregar app icon
 - [x] Agregar banner de index.html
 - [ ] Agregar banner a cada /"página".html
 - [ ] Agregar imágenes a los cuadros de categorías
