@@ -1,4 +1,4 @@
-# Biblioteca coordinadora Das Bibliotek (Alpha 0.3)
+# Biblioteca coordinadora Das Bibliotek (Alpha 0.4)
 ## 1. Disclaimer: todo está a medias
 Al sitio le falta mucho para ser útil todavía y casi nada funciona, navegue con discreción.
 
@@ -18,8 +18,9 @@ Páginas por agregar:
 - [ ] Canales
 - [ ] (in)Formación
 - [ ] Bibliotecas
-- [ ] Más info
+- [ ] Créditos
 - [ ] Página de no encontrado (error 404)
+- [x] Página de redirección tras usar formulario de contacto
 
 ### 3.3 Pulido estético
 El sitio está basado en una plantilla cuyo código ha sido modificado para adaptarla a las necesidades de Das Biliotek. Es necesario mejorar lo siguiente:
@@ -35,7 +36,7 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [X] Formulario de contacto
 - [ ] Un botón para compartir o algo así
 - [ ] Una sección de agradecimientos <3
-- [ ] Redirección para que la persona que usó el formulario sepa que su respuesta fué recibida, debe tener un nombre
+- [X] Redirección para que la persona que usó el formulario sepa que su respuesta fué recibida, debe tener un nombre
 
 ## 4. Bugs
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
