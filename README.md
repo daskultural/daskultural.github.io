@@ -14,9 +14,9 @@ La bibliografía linkeada hasta ahora es muy poquita y sólo ofrece una muestra 
 Páginas por agregar:
 - [x] Lecturas clásicas
 - [x] Lecturas contemporáneas
-- [ ] Audiovisual
+- [x] Audiovisual
 - [ ] Canales
-- [ ] (in)Formación
+- [x] (in)Formación
 - [ ] Bibliotecas
 - [ ] Créditos
 - [ ] Página de no encontrado (error 404)
@@ -30,7 +30,7 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [ ] Agregar banner a cada /"página".html
 - [ ] Agregar imágenes a los cuadros de categorías
 - [ ] Optimizar el uso de espacio de los links en pantallas grandes
-- [ ] Correjir imperfecciones (líneas, sombras, cosas raras)
+- [x] Correjir imperfecciones de formato/plantilla (líneas, sombras, cosas raras)
 
 ### 3.4 Funciones por implementar
 - [X] Formulario de contacto
@@ -40,10 +40,11 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 
 ## 4. Bugs
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
-
+[ ] Sin corregir
+[x] Correjido
 ### 4.1 Bugs conocidos
-- Algunos botones podrían no ajustarse bien en pantallas móviles 
-- El formulario de contacto no funciona xd
+[ ] Algunos botones podrían no ajustarse bien en pantallas móviles 
+[x] El formulario de contacto no funciona xd
 
 ## 5. Agradecimientos/créditos 
 
