@@ -3,8 +3,8 @@
 Al sitio le falta mucho para ser útil todavía y casi nada funciona, navegue con discreción.
 
 ## 2. Sobre Das Bibliotek
-Se recopilan cosas de distintos lugares en un lugar que, ojalá, den ganas de visitar.
-Es un proyecto perosnal y amateur de Das Kultural con el objetivo de ofrecer un punto de acceso a parte de la inmensa cantidad de material compartido por la diáspora de personas que amablemente comparten sus conocimiento y materiales en internet. Ningún material es de la autoría de Das Kultural y cada obra pertenece a sus respectiv@s autor@. Este proyecto en contrucción está abierto a tus sugerencias y aportes.
+Es un proyecto personal y amateur de <i>Das Kultural</i> con el objetivo de ofrecer un punto de acceso, prinicpalmente en castellano, a parte de la inmensa cantidad de material archivado por la diáspora de personas que amablemente comparten sus conocimiento y materiales en internet. Ningún material es de la autoría de Das Kultural y cada obra pertenece a sus respectiv@s autor@s.
+Este proyecto en contrucción está abierto a tus sugerencias y aportes. El código de esta página estará disponible en el repositorio de GitHub para ser reproducido y mejorado, cosa recomendable, porque la persona responsable de este sitio dispone de conocimitentos, recursos y tiempo bastante limitados.
 
 ## 3. Cosas por mejorar
 ### 3.1 Agregar más bibliografía
@@ -15,9 +15,9 @@ Páginas por agregar:
 - [x] Lecturas clásicas
 - [x] Lecturas contemporáneas
 - [x] Audiovisual
-- [ ] Canales
+- [x] Canales
 - [x] (in)Formación
-- [ ] Bibliotecas
+- [x] Bibliotecas
 - [ ] Créditos
 - [ ] Página de no encontrado (error 404)
 - [x] Página de redirección tras usar formulario de contacto
@@ -40,15 +40,18 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 
 ## 4. Bugs
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
-[ ] Sin corregir
-[x] Correjido
+
 ### 4.1 Bugs conocidos
-[ ] Algunos botones podrían no ajustarse bien en pantallas móviles 
-[x] El formulario de contacto no funciona xd
+_- [ ] Sin corregir 
+- [x] Correjido_
+
+- [ ] Algunos botones podrían no ajustarse bien en pantallas móviles 
+- [x] El formulario de contacto no funciona xd
+- [ ] Problemas para crear web-app desde Firefox Android
 
 ## 5. Agradecimientos/créditos 
 
-- "Aalis", por su apoyo emocional
-- "Ryner", por su ayuda técnica con los links
-- "Yanekp", por ser la primera beta tester
+- _Aalis_, por su apoyo emocional
+- _Ryner_, por su ayuda técnica con los links
+- _Yanekp_, por ser la primera beta tester
 - Créditos a HTML5 UP por el template "Forty" | html5up.net | @ajlkn | aj@lkn.io |
