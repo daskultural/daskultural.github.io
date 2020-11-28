@@ -1,4 +1,4 @@
-# Biblioteca coordinadora Das Bibliotek (Alpha 0.4)
+# Biblioteca coordinadora Das Bibliotek (Alpha 0.8)
 ## 1. Disclaimer: todo está a medias
 Al sitio le falta mucho para ser útil todavía y casi nada funciona, navegue con discreción.
 
