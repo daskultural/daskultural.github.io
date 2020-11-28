@@ -42,12 +42,9 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
 
 ### 4.1 Bugs conocidos
-- [ ] Sin corregir 
-- [x] Correjido
-
 - [ ] Algunos botones podrían no ajustarse bien en pantallas móviles 
 - [x] El formulario de contacto no funciona xd
-- [ ] Problemas para crear web-app desde Firefox Android
+- [ ] Problemas para crear webapp desde Firefox Android
 
 ## 5. Agradecimientos/créditos 
 
