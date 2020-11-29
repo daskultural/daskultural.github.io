@@ -1,4 +1,4 @@
-# Biblioteca coordinadora Das Bibliotek (Alpha 0.8)
+# Biblioteca coordinadora Das Bibliotek (Alpha 0.8.1)
 ## 1. Disclaimer: todo está a medias
 Al sitio le falta mucho para ser útil todavía y casi nada funciona, navegue con discreción.
 
@@ -18,7 +18,7 @@ Páginas por agregar:
 - [x] Canales
 - [x] (in)Formación
 - [x] Bibliotecas
-- [ ] Créditos
+- [ ] Una sección de créditos/agradecimientos <3
 - [ ] Página de no encontrado (error 404)
 - [x] Página de redirección tras usar formulario de contacto
 
@@ -27,16 +27,17 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [X] Agregar favicon
 - [X] Agregar app icon
 - [x] Agregar banner de index.html
-- [ ] Agregar banner a cada /"página".html
-- [ ] Agregar imágenes a los cuadros de categorías
+- [X] Agregar banner a cada /"página".html
+- [X] Agregar imágenes a los cuadros de categorías
 - [ ] Optimizar el uso de espacio de los links en pantallas grandes
-- [x] Correjir imperfecciones de formato/plantilla (líneas, sombras, cosas raras)
+- [x] Correjir imperfecciones mayores de formato/plantilla (líneas, sombras, cosas raras)
 
 ### 3.4 Funciones por implementar
 - [X] Formulario de contacto
 - [ ] Un botón para compartir o algo así
-- [ ] Una sección de agradecimientos <3
+- [ ] Más facilidades para installar como Progressive Web App
 - [X] Redirección para que la persona que usó el formulario sepa que su respuesta fué recibida, debe tener un nombre
+- 
 
 ## 4. Bugs
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
@@ -44,7 +45,7 @@ En esta sección se agregarán bugs conocidos para intentar resolverlos.
 ### 4.1 Bugs conocidos
 - [ ] Algunos botones podrían no ajustarse bien en pantallas móviles 
 - [x] El formulario de contacto no funciona xd
-- [ ] Problemas para crear webapp desde Firefox Android
+- [x] Problemas para crear webapp desde Firefox Android
 
 ## 5. Agradecimientos/créditos 
 
