@@ -37,7 +37,6 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [ ] Un botón para compartir o algo así
 - [ ] Más facilidades para installar como Progressive Web App
 - [X] Redirección para que la persona que usó el formulario sepa que su respuesta fué recibida, debe tener un nombre
-- 
 
 ## 4. Bugs
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
