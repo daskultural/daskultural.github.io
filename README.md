@@ -8,7 +8,7 @@ Este proyecto en contrucción está abierto a tus sugerencias y aportes. El cód
 
 ## 3. Cosas por mejorar
 ### 3.1 Agregar más bibliografía
-La bibliografía linkeada hasta ahora es muy poquita y sólo ofrece una muestra de las funciones del sitio. En un futuro se espera ofrecer una varidad mucho más amplia
+La bibliografía linkeada hasta ahora es muy poquita y sólo ofrece una muestra de las funciones del sitio. En un futuro se espera ofrecer una varidad mucho más amplia. Este es un objetivo contínuo.
 
 ### 3.2 Implementar páginas para cada elemento
 Páginas por agregar:
@@ -31,6 +31,7 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [X] Agregar imágenes a los cuadros de categorías
 - [ ] Optimizar el uso de espacio de los links en pantallas grandes
 - [x] Correjir imperfecciones mayores de formato/plantilla (líneas, sombras, cosas raras)
+- [ ] Optimizar peso de imágenes para acelerar el tiempo de carga
 
 ### 3.4 Funciones por implementar
 - [X] Formulario de contacto
@@ -42,11 +43,11 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
 
 ### 4.1 Bugs conocidos
-- [ ] Algunos botones podrían no ajustarse bien en pantallas móviles 
+- [ ] Algunos botones podrían no ajustarse bien en pantallas móviles
 - [x] El formulario de contacto no funciona xd
 - [x] Problemas para crear webapp desde Firefox Android
 
-## 5. Agradecimientos/créditos 
+## 5. Agradecimientos/créditos
 
 - _Aalis_, por su apoyo emocional
 - _Ryner_, por su ayuda técnica con los links
