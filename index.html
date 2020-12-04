@@ -10,10 +10,7 @@ Tema base por HTML UP
 		<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
 		<link rel="manifest" href="site.webmanifest">
 		<script>
-		        //if el navegador soporta service worker - para instalar como PWA
-		        if('serviceWorker' in navigator) {
-		          navigator.serviceWorker.register('sw.js');
-		        };
+        document.addEventListener('DOMContentLoaded', indexContr);
 		      </script>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
