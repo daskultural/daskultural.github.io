@@ -1,63 +1,20 @@
-'use strict';
-
-// CODELAB: Update cache names any time any of the cached files change.
-const CACHE_NAME = 'static-cache-v9';
-
-// CODELAB: Add list of files to cache here.
-const FILES_TO_CACHE = [
-  '/index.html',
-  '/images/banner.jpg',
-  '/images/pic01a.jpg',
-  '/images/pic02a.jpg',
-  '/images/pic03a.jpg',
-  '/images/pic04a.jpg',
-  '/images/pic05a.jpg',
-  '/images/pic06a.jpg',
-];
-
-self.addEventListener('install', (evt) => {
-  console.log('[ServiceWorker] Install');
-  // CODELAB: Precache static resources here.
-  evt.waitUntil(
-      caches.open(CACHE_NAME).then((cache) => {
-        console.log('[ServiceWorker] Pre-caching offline page');
-        return cache.addAll(FILES_TO_CACHE);
-      })
+// On install - caching the application shell
+self.addEventListener('install', function(event) {
+  event.waitUntil(
+    caches.open('sw-cache').then(function(cache) {
+      // cache any static files that make up the application shell
+      return cache.add('index.html');
+    })
   );
-  self.skipWaiting();
 });
 
-self.addEventListener('activate', (evt) => {
-  console.log('[ServiceWorker] Activate');
-  // CODELAB: Remove previous cached data from disk.
-  evt.waitUntil(
-      caches.keys().then((keyList) => {
-        return Promise.all(keyList.map((key) => {
-          if (key !== CACHE_NAME) {
-            console.log('[ServiceWorker] Removing old cache', key);
-            return caches.delete(key);
-          }
-        }));
-      })
-  );
-  self.clients.claim();
-});
-
-self.addEventListener('fetch', (evt) => {
-  // CODELAB: Add fetch event handler here.
-  // if (evt.request.mode !== 'navigate') {
-  //   // Not a page navigation, bail.
-  //   console.log("Fetch no navigate");
-  //   return;
-  // }
-  console.log('[ServiceWorker] Fetch', evt.request.url);
-  evt.respondWith(
-      caches.open(CACHE_NAME).then((cache) => {
-        return cache.match(evt.request)
-            .then((response) => {
-              console.log("RESP", response);
-              return response || fetch(evt.request);
-            });
-      })
+// On network request
+self.addEventListener('fetch', function(event) {
+  event.respondWith(
+    // Try the cache
+    caches.match(event.request).then(function(response) {
+      //If response found return it, else fetch again
+      return response || fetch(event.request);
+    })
   );
 });
