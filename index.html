@@ -56,8 +56,18 @@ Tema base por HTML UP
 							<div class="content">
 								<p>FACILITANDO EL MARXISMO CULTURAL MÁS GAY Y DELICIOSO PARA TODAS Y TODOS.</p>
 								<ul class="actions">
-									<li><button id="instalar" class="button next scrolly">Instalar la app </button></li>
-									</button>
+									<li><button id="butInstall" aria-label="Install" class="button next scrolly">Instalar la app </button></li>
+									<script>
+							      if ('serviceWorker' in navigator) {
+							        window.addEventListener('load', () => {
+							          navigator.serviceWorker.register('sw.js')
+							              .then((reg) => {
+							                console.log('Service worker registered.', reg);
+							              });
+							        });
+							      }
+							    </script>
+							    <script src="assets/js/install.js"></script>
 								</ul>
 								<div>
      &#8205; <!-- importante, sirve para llenar un espacio -->
