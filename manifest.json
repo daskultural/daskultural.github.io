@@ -2,10 +2,9 @@
    "name": "Das Bibliotek",
    "short_name": "DasBibliotek",
    "start_url": "index.html",
-   "display": "standalone",
    "background_color": "#242943",
    "theme_color": "#242943",
-   "orientation": "portrait-primary",
+   "display": "standalone"
    "icons": [
      {
        "src":"images/android-chrome-192x192.png",
