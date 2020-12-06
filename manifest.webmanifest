@@ -1,7 +1,8 @@
  {
    "name": "Das Bibliotek",
    "short_name": "DasBibliotek",
-   "start_url": "https://daskultural.github.io/",
+   "description": "Marxismo cultural para todas y todos.",
+   "start_url": "/index.html",
    "background_color": "#242943",
    "theme_color": "#242943",
    "display": "standalone",
