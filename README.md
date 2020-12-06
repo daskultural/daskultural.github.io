@@ -1,4 +1,4 @@
-# Biblioteca coordinadora Das Bibliotek (Alpha 0.8.1)
+# Biblioteca coordinadora Das Bibliotek (Alpha 0.8.2)
 ## 1. Disclaimer: todo está a medias
 Al sitio le falta mucho para ser útil todavía y casi nada funciona, navegue con discreción.
 
@@ -32,11 +32,12 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [ ] Optimizar el uso de espacio de los links en pantallas grandes
 - [x] Correjir imperfecciones mayores de formato/plantilla (líneas, sombras, cosas raras)
 - [ ] Optimizar peso de imágenes para acelerar el tiempo de carga
+- [x] Maskable icon para Android
 
 ### 3.4 Funciones por implementar
 - [X] Formulario de contacto
 - [ ] Un botón para compartir o algo así
-- [ ] Más facilidades para installar como Progressive Web App
+- [ ] Un botón para instalar como Progressive Web App
 - [X] Redirección para que la persona que usó el formulario sepa que su respuesta fué recibida, debe tener un nombre
 
 ## 4. Bugs
@@ -45,11 +46,14 @@ En esta sección se agregarán bugs conocidos para intentar resolverlos.
 ### 4.1 Bugs conocidos
 - [ ] Algunos botones podrían no ajustarse bien en pantallas móviles
 - [x] El formulario de contacto no funciona xd
-- [x] Problemas para crear webapp desde Firefox Android
+- [x] No se puede crear webapp desde Firefox Android
+- [x] Webapp no se muestra como standalone
 
 ## 5. Agradecimientos/créditos
 
 - _Aalis_, por su apoyo emocional
 - _Ryner_, por su ayuda técnica con los links
 - _Yanekp_, por ser la primera beta tester
+- _Tía Akwa_, por sus recomendaciones de lecturas
+- _Stardust (perro watom)_ por ponerse la videoteca
 - Créditos a HTML5 UP por el template "Forty" | html5up.net | @ajlkn | aj@lkn.io |
