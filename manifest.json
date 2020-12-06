@@ -4,7 +4,7 @@
    "start_url": "https://daskultural.github.io/",
    "background_color": "#242943",
    "theme_color": "#242943",
-   "display": "standalone"
+   "display": "standalone",
    "icons": [
      {
        "src":"images/android-chrome-192x192.png",
