@@ -55,5 +55,5 @@ En esta sección se agregarán bugs conocidos para intentar resolverlos.
 - _Ryner_, por su ayuda técnica con los links
 - _Yanekp_, por ser la primera beta tester
 - _Tía Akwa_, por sus recomendaciones de lecturas
-- _Stardust (perro watom)_ por ponerse la videoteca
+- _Stardust (perro watom)_ por ponerse con la videoteca
 - Créditos a HTML5 UP por el template "Forty" | html5up.net | @ajlkn | aj@lkn.io |
