@@ -1,11 +1,10 @@
  {
    "name": "Das Bibliotek",
-   "short_name": "DasBibliotek",
-   "description": "Marxismo cultural para todas y todos.",
-   "start_url": "/index.html",
-   "background_color": "#242943",
-   "theme_color": "#242943",
+   "short_name": "Das Bibliotek",
+   "start_url": "./index.html",
    "display": "standalone",
+   "background_color": "#242943",
+   "description": "Marxismo cultural para todas y todos.",
    "icons": [
      {
        "src":"images/android-chrome-192x192.png",
@@ -15,7 +14,7 @@
        {
        "src": "images/android-chrome-512x512.png",
        "sizes": "512x512",
-       "type": "image/png",
+       "type": "image/png"
        },
        {
        "src": "images/maskable_icon.png",
