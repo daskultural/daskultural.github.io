@@ -1,7 +1,7 @@
  {
    "name": "Das Bibliotek",
    "short_name": "DasBibliotek",
-   "start_url": "index.html",
+   "start_url": "https://daskultural.github.io/",
    "background_color": "#242943",
    "theme_color": "#242943",
    "display": "standalone"
