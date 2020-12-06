@@ -1,21 +1,21 @@
-{
-  "name":"Das Bibliotek",
-  "short_name":"DasBibliotek",
-  "start_url": "/index.html",
-  "orientation": "portrait-primary",
-  "theme_color":"#242943",
-  "background_color":"#242943",
-  "display":"standalone"
-  "icons":
-  [{
-    "src":"images/android-chrome-192x192.png",
-    "sizes":"192x192",
-    "type":"image/png"
-    },
-    {
-    "src": "imgs/android-chrome-512x512.png",
-    "sizes": "512x512"
-    "type": "image/png",
-      }
-  ]
+ {
+   "name": "Das Bibliotek",
+   "short_name": "DasBibliotek",
+   "start_url": "index.html",
+   "display": "standalone",
+   "background_color": "#242943",
+   "theme_color": "#242943",
+   "orientation": "portrait-primary",
+   "icons": [
+     {
+       "src":"images/android-chrome-192x192.png",
+       "sizes":"192x192",
+       "type":"image/png"
+       },
+       {
+       "src": "images/android-chrome-512x512.png",
+       "sizes": "512x512"
+       "type": "image/png",
+         }
+   ]
  }
