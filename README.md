@@ -18,7 +18,7 @@ Páginas por agregar:
 - [x] Canales
 - [x] (in)Formación
 - [x] Bibliotecas
-- [ ] Una sección de créditos/agradecimientos <3
+- [x] Una sección de créditos/agradecimientos <3
 - [ ] Página de no encontrado (error 404)
 - [x] Página de redirección tras usar formulario de contacto
 
