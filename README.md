@@ -1,4 +1,4 @@
-# Biblioteca coordinadora Das Bibliotek (Alpha 0.8.2)
+# Biblioteca coordinadora Das Bibliotek (Alpha 0.8.3)
 
 ## 1. Disclaimer: todo está a medias
 
@@ -42,6 +42,7 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [x] Correjir imperfecciones mayores de formato/plantilla (líneas, sombras, cosas raras)
 - [ ] Optimizar peso de imágenes para acelerar el tiempo de carga
 - [x] Maskable icon para Android
+- [ ] Descripciónes para los artículos
 
 ### 3.4 Funciones por implementar
 
