@@ -2,7 +2,7 @@
 
 ## 1. Disclaimer: todo está a medias
 
-Al sitio le falta mucho para ser útil todavía y casi nada funciona, navegue con discreción.
+Al sitio le falta bastante desarrollo y algunas cosas pueden no funcionar.
 
 ## 2. Sobre Das Bibliotek
 
