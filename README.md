@@ -1,6 +1,6 @@
 # Biblioteca coordinadora Das Bibliotek (Alpha 0.8.3)
 
-## 1. Disclaimer: todo está a medias
+## 1. Disclaimer: sitio en construcción
 
 Al sitio le falta bastante desarrollo y algunas cosas pueden no funcionar.
 
