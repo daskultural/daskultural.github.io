@@ -55,7 +55,7 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 
 En esta sección se agregarán bugs conocidos para intentar resolverlos.
 
-### 4.1 Bugs conocidos
+### 4.1 Bugs conocidos (y su estado de correción)
 
 - [ ] Algunos botones podrían no ajustarse bien en pantallas móviles
 - [x] El formulario de contacto no funciona xd
