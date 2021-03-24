@@ -64,6 +64,8 @@ En esta sección se agregarán bugs conocidos para intentar resolverlos.
 
 ## 5. Agradecimientos/créditos
 
+Esta sección está dedicada a las personas que me han ayudado de alguna forma significativa en este proyecto desde su etapa germinal. Besos en el poto a:
+
 - _Aalis_, por su apoyo emocional
 - _Ryner_, por su ayuda técnica con los links
 - _Yanekp_, por ser la primera beta tester
