@@ -7,6 +7,7 @@ Al sitio le falta bastante desarrollo y algunas cosas pueden no funcionar.
 ## 2. Sobre Das Bibliotek
 
 Es un proyecto personal y amateur de <i>Das Kultural</i> con el objetivo de ofrecer un punto de acceso, prinicpalmente en castellano, a parte de la inmensa cantidad de material archivado por la diáspora de personas que amablemente comparten sus conocimiento y materiales en internet. Ningún material es de la autoría de Das Kultural y cada obra pertenece a sus respectiv@s autor@s.
+
 Este proyecto en contrucción está abierto a tus sugerencias y aportes. El código de esta página estará disponible en el repositorio de GitHub para ser reproducido y mejorado, cosa recomendable, porque la persona responsable de este sitio dispone de conocimitentos, recursos y tiempo bastante limitados.
 
 ## 3. Cosas por mejorar
