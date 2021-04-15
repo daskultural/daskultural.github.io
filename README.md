@@ -44,6 +44,7 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [ ] Optimizar peso de imágenes para acelerar el tiempo de carga
 - [x] Maskable icon para Android
 - [ ] Descripciónes para los artículos
+- [ ] Mejorar integración de gráficos incrustados en pantallas móviles.
 
 ### 3.4 Funciones por implementar
 
