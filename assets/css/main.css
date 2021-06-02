@@ -2248,11 +2248,11 @@ a.icon.alt:before {
 }
 
 a.icon.alt:hover:before {
-    background-color: #6fc3df;
+    background-color: #ff80aa;
 }
 
 a.icon.alt:active:before {
-    background-color: #37a6cb;
+    background-color: #ff80bb;
 }
 
 /* Image */
@@ -2584,6 +2584,32 @@ table.alt thead {
 table.alt tfoot {
     border-top: 0;
 }
+
+/* Table Sorteable | para ordenar tablas según contenido */
+
+.table-sortable th {
+    cursor: pointer;
+  }
+  
+  .table-sortable .th-sort-asc::after {
+    content: "\25b4";
+  }
+  
+  .table-sortable .th-sort-desc::after {
+    content: "\25be";
+  }
+  
+  .table-sortable .th-sort-asc::after,
+  .table-sortable .th-sort-desc::after {
+    margin-left: 5px;
+  }
+  
+  .table-sortable .th-sort-asc,
+  .table-sortable .th-sort-desc {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  
+
 
 /* Button */
 input[type="submit"],

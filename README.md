@@ -39,7 +39,7 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [x] Agregar banner de index.html
 - [X] Agregar banner a cada /"página".html
 - [X] Agregar imágenes a los cuadros de categorías
-- [ ] Optimizar el uso de espacio de los links en pantallas grandes
+- [ ] Optimizar el uso de espacio de los links en pantallas grandes | *Se está probando un sistema de tablas de clasificación.*
 - [x] Correjir imperfecciones mayores de formato/plantilla (líneas, sombras, cosas raras)
 - [ ] Optimizar peso de imágenes para acelerar el tiempo de carga
 - [x] Maskable icon para Android
