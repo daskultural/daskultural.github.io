@@ -6,15 +6,15 @@ Al sitio le falta bastante desarrollo y algunas cosas pueden no funcionar.
 
 ## 2. Sobre Das Bibliotek
 
-Es un proyecto personal y amateur de <i>Das Kultural</i> con el objetivo de ofrecer un punto de acceso, prinicpalmente en castellano, a parte de la inmensa cantidad de material archivado por la diáspora de personas que amablemente comparten sus conocimiento y materiales en internet. Ningún material es de la autoría de Das Kultural y cada obra pertenece a sus respectiv@s autor@s.
+Es un proyecto personal y amateur de <i>Das Kultural</i> con el objetivo de ofrecer un punto de acceso, principalmente en castellano, a parte de la inmensa cantidad de material archivado por la diáspora de personas que amablemente comparten sus conocimientos y materiales en internet. Ningún material es de la autoría de Das Kultural y cada obra pertenece a sus respectiv@s autor@s.
 
-Este proyecto en contrucción está abierto a tus sugerencias y aportes. El código de esta página estará disponible en el repositorio de GitHub para ser reproducido y mejorado, cosa recomendable, porque la persona responsable de este sitio dispone de conocimitentos, recursos y tiempo bastante limitados.
+Este proyecto en construcción está abierto a tus sugerencias y aportes. El código de esta página estará disponible en el repositorio de GitHub para ser reproducido y mejorado, cosa recomendable, porque la persona responsable de este sitio dispone de conocimientos, recursos y tiempo bastante limitados.
 
 ## 3. Cosas por mejorar
 
 ### 3.1 Agregar más bibliografía
 
-La bibliografía linkeada hasta ahora es muy poquita y sólo ofrece una muestra de las funciones del sitio. En un futuro se espera ofrecer una varidad mucho más amplia. Este es un objetivo contínuo.
+La bibliografía linkeada hasta ahora es muy poquita y sólo ofrece una muestra de las funciones del sitio. En un futuro se espera ofrecer una variedad mucho más amplia. Este es un objetivo continuo.
 
 ### 3.2 Implementar páginas para cada elemento
 
@@ -32,7 +32,7 @@ Páginas por agregar:
 
 ### 3.3 Pulido estético
 
-El sitio está basado en una plantilla cuyo código ha sido modificado para adaptarla a las necesidades de Das Biliotek. Es necesario mejorar lo siguiente:
+El sitio está basado en una plantilla cuyo código ha sido modificado para adaptarla a las necesidades de Das Bibliotek. Es necesario mejorar lo siguiente:
 
 - [X] Agregar favicon
 - [X] Agregar app icon
@@ -40,10 +40,10 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [X] Agregar banner a cada /"página".html
 - [X] Agregar imágenes a los cuadros de categorías
 - [ ] Optimizar el uso de espacio de los links en pantallas grandes | *Se está probando un sistema de tablas de clasificación.*
-- [x] Correjir imperfecciones mayores de formato/plantilla (líneas, sombras, cosas raras)
+- [x] Corregir imperfecciones mayores de formato/plantilla (líneas, sombras, cosas raras)
 - [ ] Optimizar peso de imágenes para acelerar el tiempo de carga
 - [x] Maskable icon para Android
-- [ ] Descripciónes para los artículos
+- [ ] Descripciones para los artículos
 - [ ] Mejorar integración de gráficos incrustados en pantallas móviles.
 
 ### 3.4 Funciones por implementar
