@@ -73,4 +73,5 @@ Esta sección está dedicada a las personas que me han ayudado de alguna forma s
 - _Yanekp_, por ser la primera beta tester
 - _Tía Akwa_, por sus recomendaciones de lecturas
 - _Stardust (perro watom)_ por ponerse con la videoteca
+- _lucky32345_, por contribuir a la mejora del sitio
 - Créditos a HTML5 UP por el template "Forty" | html5up.net | @ajlkn | aj@lkn.io |
