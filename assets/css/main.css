@@ -3724,12 +3724,12 @@ body.is-preload #banner>.inner {
 ::-moz-selection {
     /* Code for Firefox */
     color: #2a2f4a;
-    background: #ec8d81;
+    background: #ff80aa;
 }
 
 ::selection {
     color: #2a2f4a;
-    background: #ec8d81;
+    background: #ff80aa;
 }
 
 /* Contact */
