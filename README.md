@@ -1,8 +1,16 @@
-# Biblioteca coordinadora Das Bibliotek (Alpha 0.8.3)
+# Biblioteca coordinadora Das Bibliotek (Beta 0.9)
 
 ## 1. Disclaimer: sitio en construcción
 
-Al sitio le falta bastante desarrollo y algunas cosas pueden no funcionar.
+El sitio y sus funciones están abiertas al público, sin embargo, éste es una prueba y su desarrollo no está completo.
+
+## 1.1. Cambios: Beta 0.9
+
+Se ha establecido la estrucctura formal que tendrá el sitio. El sistema de tablas de clasificación reemplaza a los botones para acceder a material descargable en las páginas de bibliografía, ocupando menos espacio de pantalla y ofreciendo una forma interactiva de clasificar textos por orden alfabético de autorxs, título y año.
+
+También se han corregido errores de tipeo, mejorado los colores de selección y se están probando favicons en cada página del sitio.
+
+Faltan cosas por mejorar y otras que están proyectadas por agregar. Sin embargo, ya se tiene una estructura definitiva del sitio y sus elementos, que será definitiva hasta que ya no lo sea.
 
 ## 2. Sobre Das Bibliotek
 
@@ -27,10 +35,10 @@ Páginas por agregar:
 - [x] (in)Formación
 - [x] Bibliotecas
 - [x] Una sección de créditos/agradecimientos <3
-- [ ] Página de no encontrado (error 404)
+- [x] Página de no encontrado (error 404)
 - [x] Página de redirección tras usar formulario de contacto
 
-### 3.3 Pulido estético
+### 3.3 Pulido estético, por mejorar
 
 El sitio está basado en una plantilla cuyo código ha sido modificado para adaptarla a las necesidades de Das Bibliotek. Es necesario mejorar lo siguiente:
 
@@ -39,19 +47,20 @@ El sitio está basado en una plantilla cuyo código ha sido modificado para adap
 - [x] Agregar banner de index.html
 - [X] Agregar banner a cada /"página".html
 - [X] Agregar imágenes a los cuadros de categorías
-- [ ] Optimizar el uso de espacio de los links en pantallas grandes | *Se está probando un sistema de tablas de clasificación.*
+- [x] Optimizar el uso de espacio de los links en pantallas grandes | *Se está probando un sistema de tablas de clasificación.*
 - [x] Corregir imperfecciones mayores de formato/plantilla (líneas, sombras, cosas raras)
-- [ ] Optimizar peso de imágenes para acelerar el tiempo de carga
+- [x] Optimizar peso de imágenes para acelerar el tiempo de carga
 - [x] Maskable icon para Android
 - [ ] Descripciones para los artículos
 - [ ] Mejorar integración de gráficos incrustados en pantallas móviles.
 
-### 3.4 Funciones por implementar
+### 3.4 Características por implementar (no prioritario)
 
 - [X] Formulario de contacto
 - [ ] Un botón para compartir o algo así
 - [ ] Un botón para instalar como Progressive Web App
 - [X] Redirección para que la persona que usó el formulario sepa que su respuesta fué recibida, debe tener un nombre
+- [ ] Fechas para cada obra en la sección *Lecturas Contemporáneas*.
 
 ## 4. Bugs
 
@@ -74,4 +83,5 @@ Esta sección está dedicada a las personas que me han ayudado de alguna forma s
 - _Tía Akwa_, por sus recomendaciones de lecturas
 - _Stardust (perro watom)_ por ponerse con la videoteca
 - _lucky32345_, por contribuir a la mejora del sitio
+- _soror.ass_, por sus recomendaciones de software útil de estudio.
 - Créditos a HTML5 UP por el template "Forty" | html5up.net | @ajlkn | aj@lkn.io |
