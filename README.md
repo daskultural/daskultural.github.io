@@ -4,11 +4,17 @@
 
 El sitio y sus funciones están abiertas al público, sin embargo, éste es una prueba y su desarrollo no está completo.
 
-## 1.1. Cambios: Beta 0.9
+## Cambios Beta 0.9.1
+
+Se está probando una forma de lazyload en los videos incrustados de YouTube, un método que permite que la mayoría de la información del video sólo cargue al interactual con éste. Esto debería reducir significativamente los tiempos de carga en la sección *Canales*.
+
+## Cambios Beta 0.9
 
 Se ha establecido la estrucctura formal que tendrá el sitio. El sistema de tablas de clasificación reemplaza a los botones para acceder a material descargable en las páginas de bibliografía, ocupando menos espacio de pantalla y ofreciendo una forma interactiva de clasificar textos por orden alfabético de autorxs, título y año.
 
-También se han corregido errores de tipeo, mejorado los colores de selección y se están probando favicons en cada página del sitio.
+Se han corregido errores de tipeo, mejorado los colores de selección y se están probando favicons en cada página del sitio.
+
+Se empezó a usar el formato webp para imágenes, con el objetivo de reducir los tiempos de carga y el consumo de datos.
 
 Faltan cosas por mejorar y otras que están proyectadas por agregar. Sin embargo, ya se tiene una estructura definitiva del sitio y sus elementos, que será definitiva hasta que ya no lo sea.
 

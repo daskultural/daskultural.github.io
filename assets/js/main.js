@@ -26,7 +26,9 @@
 	 * Applies parallax scrolling to an element's background image.
 	 * @return {jQuery} jQuery object.
 	 */
-	$.fn._parallax = (browser.name == 'ie' || browser.name == 'edge' || browser.mobile) ? function () { return $(this) } : function (intensity) {
+	$.fn._parallax = (browser.name == 'ie' || browser.name == 'edge' || browser.mobile) ? function () {
+		return $(this)
+	} : function (intensity) {
 
 		var $window = $(window),
 			$this = $(this);
@@ -122,7 +124,8 @@
 	$tiles.each(function () {
 
 		var $this = $(this),
-			$image = $this.find('.image'), $img = $image.find('img'),
+			$image = $this.find('.image'),
+			$img = $image.find('img'),
 			$link = $this.find('.link'),
 			x;
 
@@ -185,8 +188,8 @@
 	});
 
 	// Header.
-	if ($banner.length > 0
-		&& $header.hasClass('alt')) {
+	if ($banner.length > 0 &&
+		$header.hasClass('alt')) {
 
 		$window.on('resize', function () {
 			$window.trigger('scroll');
@@ -196,9 +199,16 @@
 
 			$banner.scrollex({
 				bottom: $header.height() + 10,
-				terminate: function () { $header.removeClass('alt'); },
-				enter: function () { $header.addClass('alt'); },
-				leave: function () { $header.removeClass('alt'); $header.addClass('reveal'); }
+				terminate: function () {
+					$header.removeClass('alt');
+				},
+				enter: function () {
+					$header.addClass('alt');
+				},
+				leave: function () {
+					$header.removeClass('alt');
+					$header.addClass('reveal');
+				}
 			});
 
 			window.setTimeout(function () {
@@ -213,7 +223,8 @@
 	$banner.each(function () {
 
 		var $this = $(this),
-			$image = $this.find('.image'), $img = $image.find('img');
+			$image = $this.find('.image'),
+			$img = $image.find('img');
 
 		// Parallax.
 		$this._parallax(0.275);
@@ -367,6 +378,38 @@ function sortTableByColumn(table, column, asc = true) {
 	table.querySelector(`th:nth-child(${column + 1})`).classList.toggle("th-sort-asc", asc);
 	table.querySelector(`th:nth-child(${column + 1})`).classList.toggle("th-sort-desc", !asc);
 }
+
+(function () {
+	let YouTubeContainers = document.querySelectorAll(".embed-youtube");
+
+	// Iterate over every YouTube container you may have
+	for (let i = 0; i < YouTubeContainers.length; i++) {
+		let container = YouTubeContainers[i];
+		let imageSource = "https://img.youtube.com/vi/" + container.dataset.videoId + "/sddefault.jpg";
+
+		// Load the Thumbnail Image asynchronously
+		let image = new Image();
+		image.src = imageSource;
+		image.addEventListener("load", function () {
+			container.appendChild(image);
+		});
+
+		// When the user clicks on the container, load the embedded YouTube video
+		container.addEventListener("click", function () {
+			let iframe = document.createElement("iframe");
+
+			iframe.setAttribute("frameborder", "0");
+			iframe.setAttribute("allowfullscreen", "");
+			iframe.setAttribute("allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture");
+			// Important: add the autoplay GET parameter, otherwise the user would need to click over the YouTube video again to play it 
+			iframe.setAttribute("src", "https://www.youtube.com/embed/" + this.dataset.videoId + "?rel=0&showinfo=0&autoplay=1");
+
+			// Clear Thumbnail and load the YouTube iframe
+			this.innerHTML = "";
+			this.appendChild(iframe);
+		});
+	}
+})();
 
 document.querySelectorAll(".table-sortable th").forEach(headerCell => {
 	headerCell.addEventListener("click", () => {
