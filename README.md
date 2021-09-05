@@ -4,6 +4,10 @@
 
 El sitio y sus funciones están abiertas al público, sin embargo, éste es una prueba y su desarrollo no está completo.
 
+## Cambios Beta 0.9.2
+
+El contenido de *Plataformas* se ha movido a la sección *Audiovisual* con el nombre de *Servicios y Plataformas*. Se han agregado links para The Owl Club y The World of Steven Universe. Cambios ligeros en títulos.
+
 ## Cambios Beta 0.9.1
 
 Se está probando una forma de lazyload en los videos incrustados de YouTube, un método que permite que la mayoría de la información del video sólo cargue al interactual con éste. Esto debería reducir significativamente los tiempos de carga en la sección *Canales*.
