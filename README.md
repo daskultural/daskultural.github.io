@@ -94,4 +94,5 @@ Esta sección está dedicada a las personas que me han ayudado de alguna forma s
 - _Stardust (perro watom)_ por ponerse con la videoteca
 - _lucky32345_, por contribuir a la mejora del sitio
 - _soror.ass_, por sus recomendaciones de software útil de estudio.
-- Créditos a HTML5 UP por el template "Forty" | html5up.net | @ajlkn | aj@lkn.io |
+- _pizarralibertaria_, Por sus aportes en bibliogafía sobre pedagogía.
+- Créditos a _HTML5 UP_ por el template "Forty" | html5up.net | @ajlkn | aj@lkn.io |
