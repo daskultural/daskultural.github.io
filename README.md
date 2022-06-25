@@ -1,4 +1,4 @@
-# Biblioteca coordinadora Das Bibliotek (Beta 0.9)
+# Biblioteca coordinadora Das Bibliotek (Beta 0.9.3)
 
 ## 1. Disclaimer: sitio en construcción
 
