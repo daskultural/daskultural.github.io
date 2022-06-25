@@ -4,6 +4,10 @@
 
 El sitio y sus funciones están abiertas al público, sin embargo, éste es una prueba y su desarrollo no está completo.
 
+## Cambios Beta 0.9.3
+
+Las páginas *(in)Formación* y *Bibliotecas* han sido reoganizadas en *Recursos* y *Biblioteca*, respectivamente. Bases de datos, software últil, repositorios y otros están en *Recursos*, mientras que los manuales, informes y artículos están en *Biblioteca*.
+
 ## Cambios Beta 0.9.2
 
 El contenido de *Plataformas* se ha movido a la sección *Audiovisual* con el nombre de *Servicios y Plataformas*. Se han agregado links para The Owl Club y The World of Steven Universe. Cambios ligeros en títulos.
