@@ -99,4 +99,5 @@ Esta sección está dedicada a las personas que me han ayudado de alguna forma s
 - _lucky32345_, por contribuir a la mejora del sitio
 - _soror.ass_, por sus recomendaciones de software útil de estudio.
 - _pizarralibertaria_, Por sus aportes en bibliogafía sobre pedagogía.
+- _peluchesdelminiso_, Por sus aportes en bibliogafía sobre salud mental y tetas.
 - Créditos a _HTML5 UP_ por el template "Forty" | html5up.net | @ajlkn | aj@lkn.io |
