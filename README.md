@@ -1,8 +1,12 @@
-# Biblioteca coordinadora Das Bibliotek (Beta 0.9.3)
+# Biblioteca Biblio Micelio (Beta 0.9.4)
 
 ## 1. Disclaimer: sitio en construcción
 
 El sitio y sus funciones están abiertas al público, sin embargo, éste es una prueba y su desarrollo no está completo.
+
+## Cambios Beta 0.9.4
+
+La página se ha renombrado *Biblio Micelio* y se ha cambiado el banner, con el objetivo de despersonalizar el diseño del sitio y desligarlo visualmente de *das_kultural*.
 
 ## Cambios Beta 0.9.3
 
